@@ -1,1 +1,2 @@
+on: pull_request_review
 name: Team awesome's approval workflow
